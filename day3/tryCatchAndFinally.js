@@ -27,6 +27,7 @@ function readLine() {
  * Use console.log() to print to stdout.
  */
 function reverseString(s) {
+    // wow function
     try{
         s = s.split('').reverse().join('')
     }catch(e){
