@@ -1,0 +1,24 @@
+{
+  "name": "10daysofjavascript",
+  "version": "1.0.0",
+  "description": "introduction js problems in hacker rank",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jannatulNayem/10DaysOfJavaScript.git"
+  },
+  "keywords": [
+    "js",
+    "problem",
+    "solving"
+  ],
+  "author": "Nayem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jannatulNayem/10DaysOfJavaScript/issues"
+  },
+  "homepage": "https://github.com/jannatulNayem/10DaysOfJavaScript#readme"
+}
